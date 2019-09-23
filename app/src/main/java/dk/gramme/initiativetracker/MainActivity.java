@@ -1,7 +1,9 @@
 package dk.gramme.initiativetracker;
 
 import android.os.Bundle;
+import android.widget.TableLayout;
 
+import androidx.annotation.ContentView;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
